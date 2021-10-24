@@ -38,9 +38,10 @@ step 10 : Feature Selection - Split into **Dependent** and **Independent** featu
 
 
 Step 11 : Feature Importance - Using **ExtraTreesRegressor** with visualization
+
 ![image](https://user-images.githubusercontent.com/86042771/138587840-d7e6ba52-3b8b-426f-8fef-05b3025c7fc6.png)
 
-Step 12 : import train_test_spli
+Step 12 : import train_test_split
 
 Step 13 : RandomForestRegressor algorithm hasbeen used for this project
 
