@@ -34,3 +34,24 @@ Step 8 : Data Visualization using **Seaborn**
 Step 9 : Checked the Correlation using **Heat Map**
 ![image](https://user-images.githubusercontent.com/86042771/138587663-fb4971fb-bc4f-42a4-9c6c-02e8a3f002b7.png)
 
+step 10 : Feature Selection - Split into **Dependent** and **Independent** features
+
+
+Step 11 : Feature Importance - Using **ExtraTreesRegressor** with visualization
+![image](https://user-images.githubusercontent.com/86042771/138587840-d7e6ba52-3b8b-426f-8fef-05b3025c7fc6.png)
+
+Step 12 : import train_test_spli
+
+Step 13 : RandomForestRegressor algorithm hasbeen used for this project
+
+Step 14 : RandomizedSearchCV is used as a **Hyper Parametr Tuning** for this project
+
+Step 15 : Accuracy for this model :
+
+![image](https://user-images.githubusercontent.com/86042771/138588074-ece6cd74-631b-4196-be04-b738070cffdb.png)
+
+Step 16 : Export the model to a **Pickle** file
+
+
+
+
